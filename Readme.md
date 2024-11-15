@@ -50,14 +50,14 @@ The project directory is structured as follows:
 Fetch all listings with support for pagination, filtering, and sorting.
 
 #### Query Parameters
-
-- `page` (optional): Page number for pagination (default: 1)
-- `limit` (optional): Number of listings per page (default: 10)
-- `sortBy` (optional): Field to sort by (default: `price`)
-- `order` (optional): Sort order (`asc` or `desc`, default: `asc`)
-- `price` (optional): Filter by price
-- `property_type` (optional): Filter by property type
-- `bedrooms` (optional): Filter by number of bedrooms
+##### Optional Paramters
+- `page` : default: 1
+- `limit` : default: 10
+- `sortBy`: default: `price`
+- `order` : `asc` or `desc`, default: `asc`
+- `price` 
+- `property_type` 
+- `bedrooms`
 
 
 #### Example Response
