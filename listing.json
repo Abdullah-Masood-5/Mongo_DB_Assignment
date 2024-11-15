@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Cozy Condo in Historic District",
+    "summary": "A beautifully restored condo in a historic neighborhood.",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1400,
+    "address": {
+      "street": "789 Heritage Ln",
+      "suburb": "Historic District",
+      "country": "USA"
+    },
+    "amenities": ["Wi-Fi", "Free Parking", "Air Conditioning", "Smart TV"],
+    "images": {
+      "picture_url": "https://example.com/images/condo1.jpg"
+    }
+  },
+  {
+    "name": "Penthouse with Skyline View",
+    "summary": "A luxurious penthouse overlooking the city skyline.",
+    "property_type": "Penthouse",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "price": 7000,
+    "address": {
+      "street": "555 Highrise Ave",
+      "suburb": "Downtown",
+      "country": "USA"
+    },
+    "amenities": ["Rooftop Pool", "Jacuzzi", "Fitness Center", "Concierge"],
+    "images": {
+      "picture_url": "https://example.com/images/penthouse2.jpg"
+    }
+  },
+  {
+    "name": "Industrial Loft with Open Layout",
+    "summary": "A chic loft featuring modern decor and industrial design.",
+    "property_type": "Loft",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 2700,
+    "address": {
+      "street": "456 Warehouse Rd",
+      "suburb": "Industrial Zone",
+      "country": "USA"
+    },
+    "amenities": [
+      "Open Kitchen",
+      "Pet Friendly",
+      "Exposed Beams",
+      "Washer/Dryer"
+    ],
+    "images": {
+      "picture_url": "https://example.com/images/loft3.jpg"
+    }
+  },
+  {
+    "name": "Rustic Farmhouse in Countryside",
+    "summary": "A charming 3-bedroom farmhouse surrounded by rolling hills.",
+    "property_type": "Farmhouse",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 2000,
+    "address": {
+      "street": "200 Country Ln",
+      "suburb": "Meadowlands",
+      "country": "USA"
+    },
+    "amenities": ["Fireplace", "Porch Swing", "Barn Access", "Private Garden"],
+    "images": {
+      "picture_url": "https://example.com/images/farmhouse1.jpg"
+    }
+  },
+  {
+    "name": "Cabin Retreat by the Woods",
+    "summary": "A serene cabin nestled in the forest, perfect for nature lovers.",
+    "property_type": "Cabin",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1600,
+    "address": {
+      "street": "99 Forest Path",
+      "suburb": "Woodland",
+      "country": "USA"
+    },
+    "amenities": [
+      "Hiking Trails",
+      "Wood Stove",
+      "Outdoor Hot Tub",
+      "Pet Friendly"
+    ],
+    "images": {
+      "picture_url": "https://example.com/images/cabin1.jpg"
+    }
+  },
+  {
+    "name": "Compact Studio Near University",
+    "summary": "A cozy studio apartment ideal for students or young professionals.",
+    "property_type": "Studio",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "price": 800,
+    "address": {
+      "street": "300 University Ave",
+      "suburb": "Campus District",
+      "country": "USA"
+    },
+    "amenities": ["Wi-Fi", "Study Desk", "Kitchenette"],
+    "images": {
+      "picture_url": "https://example.com/images/studio2.jpg"
+    }
+  },
+  {
+    "name": "Family Apartment with Playground Access",
+    "summary": "A spacious family apartment with child-friendly amenities.",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 2400,
+    "address": {
+      "street": "12 Park Ln",
+      "suburb": "Sunnydale",
+      "country": "USA"
+    },
+    "amenities": ["Playground", "Community Pool", "Gym", "Balcony"],
+    "images": {
+      "picture_url": "https://example.com/images/family_apartment2.jpg"
+    }
+  },
+  {
+    "name": "Stylish Loft in Downtown Core",
+    "summary": "An artistic loft with vibrant decor and urban vibes.",
+    "property_type": "Loft",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 1800,
+    "address": {
+      "street": "555 Art Alley",
+      "suburb": "Downtown Core",
+      "country": "USA"
+    },
+    "amenities": ["High Ceilings", "Pet Friendly", "Art Gallery Nearby"],
+    "images": {
+      "picture_url": "https://example.com/images/loft4.jpg"
+    }
+  },
+  {
+    "name": "Luxury Villa with Infinity Pool",
+    "summary": "A grand villa with an infinity pool and private cinema.",
+    "property_type": "Villa",
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "price": 9000,
+    "address": {
+      "street": "789 Ocean Dr",
+      "suburb": "Seacliff",
+      "country": "USA"
+    },
+    "amenities": [
+      "Infinity Pool",
+      "Cinema Room",
+      "Private Gym",
+      "Butler Service"
+    ],
+    "images": {
+      "picture_url": "https://example.com/images/villa1.jpg"
+    }
+  },
+  {
+    "name": "Beach Cottage with Stunning Views",
+    "summary": "A quaint cottage with direct beach access and panoramic views.",
+    "property_type": "Cottage",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 3200,
+    "address": {
+      "street": "123 Shoreline Dr",
+      "suburb": "Bayview",
+      "country": "USA"
+    },
+    "amenities": ["Beach Access", "Outdoor Grill", "Sun Deck", "Fishing"],
+    "images": {
+      "picture_url": "https://example.com/images/cottage2.jpg"
+    }
+  }
+]
