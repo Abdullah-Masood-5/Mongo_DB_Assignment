@@ -8,15 +8,15 @@ The project directory is structured as follows:
 
 ```
 /Mongo_DB_Assignment
-├── .env                # Environment variables
-├── .gitignore          # Git ignore file
-├── app.js              # Main application file
-├── listing.json        # Sample listing data
+├── .env                
+├── .gitignore          
+├── app.js              
+├── listing.json        
 ├── models/
-│   └── Listing.js      # Mongoose schema for listings
-├── package.json        # Project metadata and dependencies
+│   └── Listing.js      
+├── package.json        
 └── routes/
-    └── listings.js     # API routes for listings
+    └── listings.js     
 ```
 
 
